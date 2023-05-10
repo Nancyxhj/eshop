@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!-- <script src="src/utils/promise .js"></script> -->
+</head>
+<style>
+    body {
+        height: 3000px;
+    }
+</style>
+
+<body>
+    <input type="text">
+
+
+    <script>
+        // 防抖：用户操作触发过于频繁，在一定时间内，只执行最后一次
+        // 节流：控制高频事件执行次数，减少耗性能操作次数
+        let ipt = document.querySelector('input');
+        let bd = document.querySelector('body');
+        ipt.oninput = throttle(function () {
+            console.log(this.value);
+        }, 500);
+
+
+        function debounce(fn, delay) {
+            let t = null;
+            return function () {
+                if (t != null) {
+                    clearTimeout(t);
+                }
+
+                t = setTimeout(() => {
+                    fn.call(this);
+
+                }, delay);
+            }
+        }
+        bd.onscroll = throttle(function () {
+            console.log(1);
+        }, 500);
+
+
+        function throttle(fn, delay) {
+            let flag = true;
+            return function () {
+                if (flag) {
+                    setTimeout(() => {
+                        fn.call(this);
+                        flag = true;
+                    }, delay);
+                }
+
+                flag = false;
+
+            }
+
+        }
+
+
+
+
+
+
+
+
+    </script>
+
+</body>
+
+</html>

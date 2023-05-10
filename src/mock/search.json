@@ -1,0 +1,304 @@
+{
+    "data": {
+        "trademarkList": [
+            {
+                "tmId": 6,
+                "tmName": "VIVO"
+            },
+            {
+                "tmId": 1,
+                "tmName": "小米"
+            },
+            {
+                "tmId": 3,
+                "tmName": "华为"
+            },
+            {
+                "tmId": 27,
+                "tmName": "戴尔"
+            },
+            {
+                "tmId": 4,
+                "tmName": "尚硅谷"
+            },
+            {
+                "tmId": 22,
+                "tmName": "长虹"
+            },
+            {
+                "tmId": 19575,
+                "tmName": "赎罪"
+            },
+            {
+                "tmId": 19577,
+                "tmName": "小米4"
+            },
+            {
+                "tmId": 19579,
+                "tmName": "ddd"
+            }
+        ],
+        "attrsList": [
+            {
+                "attrId": 106,
+                "attrValueList": [
+                    "安卓手机",
+                    "苹果手机"
+                ],
+                "attrName": "手机系统"
+            },
+            {
+                "attrId": 107,
+                "attrValueList": [
+                    "1200mAh到3000mAh",
+                    "3000mAh以上"
+                ],
+                "attrName": "电池容量"
+            },
+            {
+                "attrId": 23,
+                "attrValueList": [
+                    "4G",
+                    "12G",
+                    "256G",
+                    "8G"
+                ],
+                "attrName": "运行内存"
+            },
+            {
+                "attrId": 24,
+                "attrValueList": [
+                    "256G",
+                    "1T",
+                    "64G"
+                ],
+                "attrName": "机身内存"
+            },
+            {
+                "attrId": 111,
+                "attrValueList": [
+                    "5G骁龙768G",
+                    "麒麟990",
+                    "骁龙845"
+                ],
+                "attrName": "CPU型号"
+            },
+            {
+                "attrId": 112,
+                "attrValueList": [
+                    " 6.75-6.84英寸",
+                    "6.55-6.64英寸",
+                    "6.85-6.94英寸",
+                    "6.95英寸及以上"
+                ],
+                "attrName": "屏幕尺寸"
+            },
+            {
+                "attrId": 37,
+                "attrValueList": [
+                    "Java",
+                    "C#"
+                ],
+                "attrName": "分类"
+            },
+            {
+                "attrId": 113,
+                "attrValueList": [
+                    "个位大佬不要乱删数据"
+                ],
+                "attrName": "跪求"
+            },
+            {
+                "attrId": 2719,
+                "attrValueList": [
+                    "三体"
+                ],
+                "attrName": "科幻"
+            },
+            {
+                "attrId": 2792,
+                "attrValueList": [
+                    "孙子兵法"
+                ],
+                "attrName": "学生好书"
+            }
+        ],
+        "goodsList": [
+            {
+                "id": 4076,
+                "defaultImg": "http://47.93.148.192:8080/group1/M00/00/02/rBHu8l-rgJqARA19AAFuZ18W_ks439.jpg",
+                "title": "124",
+                "price": 999.0,
+                "createTime": null,
+                "tmId": null,
+                "tmName": null,
+                "category1Id": null,
+                "category1Name": null,
+                "category2Id": null,
+                "category2Name": null,
+                "category3Id": null,
+                "category3Name": null,
+                "hotScore": 0,
+                "attrs": null
+            },
+            {
+                "id": 3723,
+                "defaultImg": "http://47.93.148.192:8080/group1/M00/02/DA/rBHu8mGxO7mAE-3gAACWbB2wj-4610.jpg",
+                "title": "123",
+                "price": 5.0,
+                "createTime": null,
+                "tmId": null,
+                "tmName": null,
+                "category1Id": null,
+                "category1Name": null,
+                "category2Id": null,
+                "category2Name": null,
+                "category3Id": null,
+                "category3Name": null,
+                "hotScore": 0,
+                "attrs": null
+            },
+            {
+                "id": 3889,
+                "defaultImg": "http://47.93.148.192:8080/group1/M00/09/64/rBHu8mQarweAStUjAAdCeNM-gbM645.jpg",
+                "title": "的撒旦",
+                "price": 123.0,
+                "createTime": null,
+                "tmId": null,
+                "tmName": null,
+                "category1Id": null,
+                "category1Name": null,
+                "category2Id": null,
+                "category2Name": null,
+                "category3Id": null,
+                "category3Name": null,
+                "hotScore": 0,
+                "attrs": null
+            },
+            {
+                "id": 4464,
+                "defaultImg": "http://47.93.148.192:8080/group1/M00/02/DB/rBHu8mGxPcCANXGrAAH0CTAPZ8s596.jpg",
+                "title": "11",
+                "price": 11.0,
+                "createTime": null,
+                "tmId": null,
+                "tmName": null,
+                "category1Id": null,
+                "category1Name": null,
+                "category2Id": null,
+                "category2Name": null,
+                "category3Id": null,
+                "category3Name": null,
+                "hotScore": 0,
+                "attrs": null
+            },
+            {
+                "id": 3992,
+                "defaultImg": "http://47.93.148.192:8080/group1/M00/09/01/rBHu8mPbuYeAKx47AAA3aFKsX6w43.webp",
+                "title": "123",
+                "price": 123.0,
+                "createTime": null,
+                "tmId": null,
+                "tmName": null,
+                "category1Id": null,
+                "category1Name": null,
+                "category2Id": null,
+                "category2Name": null,
+                "category3Id": null,
+                "category3Name": null,
+                "hotScore": 0,
+                "attrs": null
+            },
+            {
+                "id": 4433,
+                "defaultImg": "http://47.93.148.192:8080/group1/M00/02/DB/rBHu8mGxPcKAZ_qwAAAaCuo69pQ498.jpg",
+                "title": " S10 Pro prpidf",
+                "price": 11111.0,
+                "createTime": null,
+                "tmId": null,
+                "tmName": null,
+                "category1Id": null,
+                "category1Name": null,
+                "category2Id": null,
+                "category2Name": null,
+                "category3Id": null,
+                "category3Name": null,
+                "hotScore": 0,
+                "attrs": null
+            },
+            {
+                "id": 4342,
+                "defaultImg": "http://47.93.148.192:8080/group1/M00/02/DB/rBHu8mGxPcKAA4kQAAAjnj5T1_M968.jpg",
+                "title": "222",
+                "price": 2222.0,
+                "createTime": null,
+                "tmId": null,
+                "tmName": null,
+                "category1Id": null,
+                "category1Name": null,
+                "category2Id": null,
+                "category2Name": null,
+                "category3Id": null,
+                "category3Name": null,
+                "hotScore": 0,
+                "attrs": null
+            },
+            {
+                "id": 4582,
+                "defaultImg": "http://47.93.148.192:8080/group1/M00/02/DA/rBHu8mGxPb-AQOTXAAAWgQNuXx0990.jpg",
+                "title": "123",
+                "price": 123.0,
+                "createTime": null,
+                "tmId": null,
+                "tmName": null,
+                "category1Id": null,
+                "category1Name": null,
+                "category2Id": null,
+                "category2Name": null,
+                "category3Id": null,
+                "category3Name": null,
+                "hotScore": 0,
+                "attrs": null
+            },
+            {
+                "id": 4317,
+                "defaultImg": "http://47.93.148.192:8080/group1/M00/00/01/rBHu8l-rgJqAHPnoAAF9hoDNfsc505.jpg",
+                "title": "147",
+                "price": 174.0,
+                "createTime": null,
+                "tmId": null,
+                "tmName": null,
+                "category1Id": null,
+                "category1Name": null,
+                "category2Id": null,
+                "category2Name": null,
+                "category3Id": null,
+                "category3Name": null,
+                "hotScore": 0,
+                "attrs": null
+            },
+            {
+                "id": 4309,
+                "defaultImg": "http://139.198.127.41:9000/sph/20230325/tx8.jpg",
+                "title": "fj666",
+                "price": 52.0,
+                "createTime": null,
+                "tmId": null,
+                "tmName": null,
+                "category1Id": null,
+                "category1Name": null,
+                "category2Id": null,
+                "category2Name": null,
+                "category3Id": null,
+                "category3Name": null,
+                "hotScore": 0,
+                "attrs": null
+            }
+        ],
+        "total": 37,
+        "pageSize": 10,
+        "pageNo": 1,
+        "totalPages": 4
+    },
+    "ok": true
+}
